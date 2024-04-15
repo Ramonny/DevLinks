@@ -7,7 +7,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando oculos preto e jaqueta preta, sem barba em um fundo azul"
+      "Foto de Ramonny, de óculos escuro, olhando para frente"
     )
   } else {
     img.setAttribute("src", "./assets/avatar.png")
